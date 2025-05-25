@@ -12,8 +12,3 @@ This project simulates the input impedance and maximum directivity of a center-f
 
 - NumPy
 - Matplotlib
-
-## 🚀 How to Run
-
-1. Make sure Python and the above libraries are installed.
-2. Run each `.py` file to generate respective plots.
